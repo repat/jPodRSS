@@ -9,8 +9,8 @@ This could be used if you want to use your local MP3s in your podcatcher, e.g. f
 * http://repat.de
 * email: repat[at]repat[dot]de
 * XMPP: repat@jabber.ccc.de
-* Twitter: repat123
+* Twitter: [repat123](https://twitter.com/repat123 "repat123 on twitter")
 
 ### Copyright
 Pretty much do-whatever-you-want
-* MIT-License, see [opensource.org](http://opensource.org/licenses/mit-license.php "opensource.org MIT License) for details
+* MIT-License, see [opensource.org](http://opensource.org/licenses/mit-license.php "opensource.org MIT License") for details
